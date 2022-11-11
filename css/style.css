@@ -16,7 +16,7 @@ header, footer {
 }
 
 header {
-  font-family: Syne;
+  font-family: Syne; 
   color: #fff;
   min-height: 100vh;
   display: flex;
