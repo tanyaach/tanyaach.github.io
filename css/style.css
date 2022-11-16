@@ -10,7 +10,7 @@ body {
 
 
 header, footer {
-  background-color: #eefeda;
+  background-color: #f3fde6;
   text-align: left;
 
 }
@@ -81,9 +81,9 @@ font-family: 'Inter';
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid rgb(0, 55, 94);
   cursor: pointer;
-  color: #ffffff;
+  color: rgb(0, 55, 94);
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -91,7 +91,7 @@ font-family: 'Inter';
 }
 
 .myButton:hover {
-    background-color:#eefeda;
+    background-color:rgb(0, 55, 94);
 }
 
 .myButton:active {
