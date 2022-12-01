@@ -148,8 +148,15 @@ font-family: 'Inter';
   margin: auto;
 }
 
-footer {
-  margin-top: 44px;
+footer div {
+  height: 100%;
+  font-family: Syne;
+  font-size: 14px;
+  display: flex;
+  align-content: center;
+  padding: 10px 20px;
+  color: rgba(0, 55, 94, 0.5);
+  
 }
 
 @media all and (max-width:700px) {
